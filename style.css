@@ -1,0 +1,13 @@
+body {
+    font-family: "Libre Baskerville", serif;
+    background-color: black;
+    color: white;
+}
+
+img {
+    border: white 5px solid;
+}
+
+* {
+    text-align: center;
+}
